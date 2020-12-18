@@ -1,16 +1,13 @@
 # JS + CSS Clock
 
 ##  Repository: 
-[JS + CSS Clock](https://github.com/TBragg800/)
+[JS + CSS Clock](https://github.com/TBragg800/JS-CSS-Clock)
 
 ##  Deployed:
-[JS + CSS Clock](https://tbragg800.github.io//)
+[JS + CSS Clock](https://tbragg800.github.io/JS-CSS-Clock/)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/)
-
-## Walkthrough Video Demonstration: 
-# <p align="center">![Walkthrough](./assets/.gif)</p>
+![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/JS-CSS-Clock)
 
 ## Table of Contents
   [Description](#Description)
@@ -29,7 +26,7 @@
   Simply clone the repo locally.
 
 ## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [JS + CSS Clock](https://tbragg800.github.io//)
+  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [JS + CSS Clock](https://tbragg800.github.io/JS-CSS-Clock/)
 
 ## License
   MIT License
@@ -60,5 +57,5 @@ SOFTWARE.
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
-![](./assets/.png)
+![](./assets/JS-CSS-Clock.png)
 

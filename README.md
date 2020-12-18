@@ -19,8 +19,7 @@
   [Questions](#Questions)
   
 ## Description
-  A JS + CSS Clock created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to practice key events, 
-  . To find out more about this instructional series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  A JS + CSS Clock created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to practice programming clock hands to properly update based on the current time. To find out more about this instructional series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
